@@ -1,2 +1,7 @@
-# Jogo_da_forca_python
-Jogo da Forca em Python (Apenas Console)
+# Jogo da Forca - Python
+
+Jogo da Forca desenvolvido em Python, apenas para console.
+
+Para o desenvolvimento foram utilizados os recursos de: Classe, metodos, tratamento de erro e um banco de dados em .txt.
+
+Dentro do jogo é possivel navegar por um menu, do qual permite, jogar ou adicionar suas proprias palavras ou excluir as palavras existentes no banco de dados, e visualizar as palavras salvas.
